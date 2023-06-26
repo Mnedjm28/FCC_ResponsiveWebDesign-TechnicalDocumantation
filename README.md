@@ -1,1 +1,1 @@
-# FCC_ResponsiveWebDesign-TechnicalDocumantation
+# FreeCodeCamp_ResponsiveWebDesign-TechnicalDocumantation
